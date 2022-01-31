@@ -1,0 +1,164 @@
+#page{
+background:url(444444444.svg)  50% 50% no-repeat ;
+font-size:39pt;
+font-family:Arial;
+color:#DAA520;
+text-align: center;
+font-weight:bold;
+
+}
+
+
+
+#as {
+font-size:15pt;
+font-family:Arial;
+color:grey;
+background:silver;
+}
+#ff{
+font-size:20pt;
+font-family:Georgia;
+color:white;
+
+margin-bottom: 0;
+}
+#dw{
+	font-size:26pt;
+	color:grey;
+	font-family:Arial;
+}
+#wu{
+	font-size:25pt;
+    font-family:Comic Sans MS;
+    text-align: center;	
+	color:#DAA520;
+}
+
+.letter{
+	color:goldenrod;
+	font-size:22pt;
+	font-family:Arial;
+	margin-left: 25px;
+}
+
+.letter1{
+	font-family:News706 BT;
+}
+
+
+#fg{
+font-size:35pt;
+font-family:Arial;
+color:#DAA520;
+text-align: center;
+font-weight:bold;
+}
+
+#dd{
+	font-size:20pt;
+	font-family:Comic Sans MS;
+	color:grey;
+}
+
+p{
+	margin-bottom: 0;
+	
+	
+}
+
+#kd{
+	font-size:20pt;
+	font-family:Comic Sans MS;
+	color:grey;
+}
+
+#tr{
+	font-style: italic;
+	color:grey;
+	font-family:Georgia;
+	font-size:17pt;
+	margin-left: 20px;
+}
+h2 {
+    font-size: 35pt; /* Размер шрифта */
+    color: blue; /* Цвет текста */
+    margin-bottom: 0; /* Отступ снизу */
+   }
+h3 {
+    font-size: 25pt; /* Размер шрифта */
+    font-style: italic;
+    color: white; /* Цвет текста */
+    margin-left: 75px;
+	text-align: left;
+   }
+
+#ay {
+font-size:15pt;
+font-family:Arial;
+color:grey;
+background:silver;
+margin-top:20px;
+margin-bottom: 0;
+}
+
+body {
+	
+font: 20pt Arial, sans-serif; /* Шрифт на веб-странице */
+
+background-position:40px 40px;
+    background: url(777774444.svg) 50% 50%  no-repeat ;
+    background-size: cover;
+    background-attachment:fixed;
+ /* Убираем отступы */
+            margin:0 0 0 0;
+	display: table;
+  height: 100%;
+  width: 100%;
+
+  }
+
+a{
+color: white;
+font-size: 
+}
+
+a:link{
+text-decoration: none;}
+  a:visited {color: white; text-decoration: none;}
+  a:active { text-decoration: none;}
+  a:hover { color: grey; text-decoration: none;}
+  
+  .letter a{
+	color: grey;
+	
+}
+.letter a:hover { color: #DAA520; text-decoration: none;}
+
+
+	p{
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+	
+	body1 {
+	
+font: 20pt Arial, sans-serif; /* Шрифт на веб-странице */
+
+background-position:40px 40px;
+    background: url(777774444.svg) 50% 50%  no-repeat ;
+    background-size: cover;
+    background-attachment:fixed;
+ /* Убираем отступы */
+            margin:0 0 70px;
+	display: table;
+  height: 100%;
+  width: 90%;
+  margin-left: 60px;
+  margin-right: 60px;
+ 
+  }
+  th, td{
+	  color: white;
+  }
+
